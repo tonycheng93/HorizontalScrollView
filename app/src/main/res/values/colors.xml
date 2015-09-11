@@ -4,4 +4,5 @@
     <color name="transparent">#00000000</color>
     <color name="black">#000000</color>
     <color name="work_text_color">#ffffff</color>
+    <color name="key_line">#55ffffff</color>
 </resources>
